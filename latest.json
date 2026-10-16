@@ -1,0 +1,35 @@
+{
+  "version": "0.1.9",
+  "notes": "## 0.1.9\n- **La nouvelle icône dans la barre des tâches** : L’épingle de Lulle dans la barre des tâches prend maintenant la nouvelle icône. Si l’ancienne reste affichée, désépinglez puis réépinglez Lulle depuis le menu Démarrer.\n- **Les titres retrouvent leur police** : Retour à la police d’origine pour les titres et les chiffres du tableau de bord.\n\n## 0.1.8\n- **Le logiciel s’appelle maintenant Lulle** : Nouveau nom et nouvelle icône : cherchez Lulle dans le menu Démarrer et sur le bureau. Vos dossiers, vos réglages et votre accès ne changent pas.\n- **Une identité à lui** : Le symbole Lulle remplace l’ancien logo dans le logiciel, et les titres passent en Lulle Bloc, son caractère maison.\n- **Le cabinet garde son nom** : SBC Formalités reste le nom du cabinet : il s’affiche toujours en haut à gauche, dans les courriers et sur les documents.\n\n## 0.1.7\n- **Gabarits et réglages réparés** : Dans un cabinet qui n’a pas encore de dossier, les gabarits, les variables, la sécurité et l’archivage s’ouvrent normalement, avec un exemple fictif.\n- **Plus jamais de page noire** : Si un écran rencontre un souci, le logiciel l’explique et vous ramène au plateau d’un clic, sans rien perdre.\n\n## 0.1.6\n- **Formalito tout doux** : Il a maintenant un vrai pelage, des yeux qui brillent et des joues roses, et il vous suit du regard.\n- **Votre compagnon, à votre goût** : Neuf pelages et sept accessoires au choix dans Réglages › Mon compte : chacun choisit le sien, et le retrouve sur tous ses postes.\n- **Il change de tenue sur demande** : Dites-lui « mets des lunettes », « deviens menthe » ou « enlève ton bonnet » : c’est fait sur-le-champ.\n- **« Quoi de neuf » à chaque mise à jour** : Les nouveautés s’affichent au premier lancement d’une nouvelle version, sur chaque poste.\n\n## 0.1.5\n- **La Dynamic Island** : En haut de l’écran, elle affiche l’heure, les alertes et les relances, et s’anime à chaque action : enregistrement, hors-ligne, mises à jour.\n- **Formalito modifie vos dossiers** : Dites-lui « Karim a été déposé hier » ou « RDV de Karim le 20 octobre à 14 h » : il montre le changement et attend votre accord. « Défaire » remet comme avant.\n- **Vos pièces glissées dans le chat** : Formalito reconnaît la pièce, la chiffre, la renomme et la coche dans la check-list du bon dossier, après votre confirmation.\n- **Mises à jour automatiques** : Plus besoin de réinstaller : chaque nouvelle version s’annonce au lancement avec ses nouveautés et s’installe en un clic.\n- **Droits mieux respectés** : Relances, annotations et clôture suivent désormais les droits réglés pour chaque assistante.",
+  "pub_date": "2026-10-16T16:57:35.870Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeExyVUwrVlhvNWpTS0FXWVVuRmhsajBzR2M4b3ZQQjhSZGlKUC80T1Vhb0tzdlEzWDNxSHgyUU1xNG5abHRTNUQ2NXZ5K25xalZvbkp5cWIvbzZieG5WTFhPMlYrWndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5ODM0CWZpbGU6THVsbGVfMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45CkVLbWdXR0pFM0Qvdm5BcWlONDM5YTJQSGZSL0ZJUStRRkErRHh3azlieVBpcEZSRTQvSlFwRmxaU2lDaWdiTXZSay9tWFNIMVNVaGNzTUV4VXR4UkNBPT0K",
+      "url": "https://raw.githubusercontent.com/SB93C45FO0/mises-a-jour/main/v0.1.9/windows-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeExyVUwrVlhvNWpTS0FXWVVuRmhsajBzR2M4b3ZQQjhSZGlKUC80T1Vhb0tzdlEzWDNxSHgyUU1xNG5abHRTNUQ2NXZ5K25xalZvbkp5cWIvbzZieG5WTFhPMlYrWndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5ODM0CWZpbGU6THVsbGVfMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45CkVLbWdXR0pFM0Qvdm5BcWlONDM5YTJQSGZSL0ZJUStRRkErRHh3azlieVBpcEZSRTQvSlFwRmxaU2lDaWdiTXZSay9tWFNIMVNVaGNzTUV4VXR4UkNBPT0K",
+      "url": "https://raw.githubusercontent.com/SB93C45FO0/mises-a-jour/main/v0.1.9/windows-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeExyVUwrVlhvNWlVVGkyWStKdVQ1WmdiOTZtcWpaQTN5R1lnTFNKQ0J0Nm5aNkxDeWpVUWY5THFReGowbXh4blc2cEw0Y2lrZGxCc2tQVHRPVm00SHZsV0VtQ29rL0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5ODM0CWZpbGU6THVsbGVfMC4xLjlfeDY0X2ZyLUZSLm1zaQl2ZXJzaW9uOjAuMS45CnhEeVdHU0FRbVJaN0prM2hCNjdpdXlYa3hSVWpyRmh1bFlvMkgxaDJia0ZVWGtVNHJMb3N4UjRRZnhKejBTWXhDMWMrQ00rcnNlQjEzUXdvNFU1dERRPT0K",
+      "url": "https://raw.githubusercontent.com/SB93C45FO0/mises-a-jour/main/v0.1.9/windows.msi"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeExyVUwrVlhvNWszRjZwdTZIMzNaSTdxSDZPOE5LaDRNa0tlcVEvYmwxZGtoTUJ6MEoyS1hxdncrclhsckNpZTgwcjd2TW1aS2RWNFBXcXl1anU0eWpoa25XQncrdlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5Nzg3CWZpbGU6THVsbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS45CkZOK2t4UndjbWNnT1paUk1xN2pxSU1NcGZkUFJTSUdhd3RVdTF6K2RzanlmYU5DdFFWWDVBRU5FbjhqQzgwZ1JPb2taTVFITDZpRkNwT1E3ZHlHaUR3PT0K",
+      "url": "https://raw.githubusercontent.com/SB93C45FO0/mises-a-jour/main/v0.1.9/macos.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeExyVUwrVlhvNWszRjZwdTZIMzNaSTdxSDZPOE5LaDRNa0tlcVEvYmwxZGtoTUJ6MEoyS1hxdncrclhsckNpZTgwcjd2TW1aS2RWNFBXcXl1anU0eWpoa25XQncrdlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5Nzg3CWZpbGU6THVsbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS45CkZOK2t4UndjbWNnT1paUk1xN2pxSU1NcGZkUFJTSUdhd3RVdTF6K2RzanlmYU5DdFFWWDVBRU5FbjhqQzgwZ1JPb2taTVFITDZpRkNwT1E3ZHlHaUR3PT0K",
+      "url": "https://raw.githubusercontent.com/SB93C45FO0/mises-a-jour/main/v0.1.9/macos.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeExyVUwrVlhvNWszRjZwdTZIMzNaSTdxSDZPOE5LaDRNa0tlcVEvYmwxZGtoTUJ6MEoyS1hxdncrclhsckNpZTgwcjd2TW1aS2RWNFBXcXl1anU0eWpoa25XQncrdlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5Nzg3CWZpbGU6THVsbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS45CkZOK2t4UndjbWNnT1paUk1xN2pxSU1NcGZkUFJTSUdhd3RVdTF6K2RzanlmYU5DdFFWWDVBRU5FbjhqQzgwZ1JPb2taTVFITDZpRkNwT1E3ZHlHaUR3PT0K",
+      "url": "https://raw.githubusercontent.com/SB93C45FO0/mises-a-jour/main/v0.1.9/macos.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeExyVUwrVlhvNWszRjZwdTZIMzNaSTdxSDZPOE5LaDRNa0tlcVEvYmwxZGtoTUJ6MEoyS1hxdncrclhsckNpZTgwcjd2TW1aS2RWNFBXcXl1anU0eWpoa25XQncrdlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5Nzg3CWZpbGU6THVsbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS45CkZOK2t4UndjbWNnT1paUk1xN2pxSU1NcGZkUFJTSUdhd3RVdTF6K2RzanlmYU5DdFFWWDVBRU5FbjhqQzgwZ1JPb2taTVFITDZpRkNwT1E3ZHlHaUR3PT0K",
+      "url": "https://raw.githubusercontent.com/SB93C45FO0/mises-a-jour/main/v0.1.9/macos.app.tar.gz"
+    }
+  }
+}
